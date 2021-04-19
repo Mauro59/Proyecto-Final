@@ -1,0 +1,6 @@
+Profesor buenos dias, tardes o noches. Esta es la base de datos con el nombre. para que la importe al phpmyadmin
+la base de datos se llama 'php_mysql_crud' y la tabla se llama 'task'
+
+
+ya que esta importada desde el php(Esto es para que no le toque cambiar los nombres de los archivos que estan conectados desde el php )
+ y le quede mas facil abrir el CRUD sin errores.
